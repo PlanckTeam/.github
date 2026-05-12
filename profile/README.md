@@ -3,8 +3,11 @@
 ## FLL - First Lego League - since 2014 
 
 ## FTC - First Tech Challenge - since 2023
+<img width="946" height="628" alt="FTC_Cesenatico" src="https://github.com/user-attachments/assets/a73e81ec-1137-43db-bef3-114d1c449364" />
 
-## Our wins
+
+
+## Some our wins
 🏁 FLL 2022 Huston USA 
 
 🏁 FTC 2023 Lyon France
@@ -14,14 +17,3 @@
 🏁 FLL 2024 Woncester USA
 
 🏁 FLL 2025 Athens Greece
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
