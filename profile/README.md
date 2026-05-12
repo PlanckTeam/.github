@@ -20,6 +20,9 @@
 
 ## Reach us here:
 [Instagram](https://www.instagram.com/planckteam/)
+
 [FaceBook](https://www.facebook.com/planckteam/)
+
 [Linkedin](https://www.linkedin.com/company/planck-team-italy/)
+
 [YouTube](https://www.youtube.com/channel/UCXiThIsfdni9gSxsw2np8Iw)
