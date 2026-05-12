@@ -1,5 +1,16 @@
 # PLANCK TEAM - FLL - FTC 23098
 
+## FLL - First Lego League - since 2014 
+
+## FTC - First Tech Challenge - since 2023
+
+## Our wins
+🏁 FLL 2022 Huston USA 
+🏁 FTC 2023 Lyon France
+🏁 FGC 2023 Singapore
+🏁 FLL 2024 Woncester USA
+🏁 FLL 2025 Athens Greece
+
 <!--
 
 **Here are some ideas to get you started:**
