@@ -3,7 +3,6 @@
 ## FLL - First Lego League - since 2014 
 
 ## FTC - First Tech Challenge - since 2023
-<img width="628" height="628" alt="FTC_Cesenatico" src="assets/FTC_Cesenatico.jpg" />
 
 
 
