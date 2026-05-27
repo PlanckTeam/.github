@@ -24,4 +24,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/PlanckTeam-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/planck-team-italy/)
 
-[![YouTube](https://img.shields.io/badge/PlanckTeam-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXiThIsfdni9gSxsw2np8Iw)
+[![YouTube](https://img.shields.io/badge/PlanckTeam-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PlanckTeam5777)
