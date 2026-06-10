@@ -12,3 +12,7 @@ Our innovative projects reflect this collective approach: each year we tackle a 
 ## Why we compete
 We win, sometimes. We lose, sometimes. But we always compete with intent — preparing rigorously, trusting each other under pressure, and showing up at every event as a team that wants to be there.  
 That drive, more than any individual result, is what defines the **Planck Team**.
+
+---
+
+**See also:** [FIRST Tech Challenge (FTC)](./FTC.md)

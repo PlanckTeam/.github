@@ -1,8 +1,8 @@
 # PLANCK TEAM - FLL - FTC 23098
 
-## FLL - First Lego League - since 2014 
+## [FLL - First Lego League - since 2014](./FLL.md) 
 
-## FTC - First Tech Challenge - since 2023
+## [FTC - First Tech Challenge - since 2023](./)
 
 
 
