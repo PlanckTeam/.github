@@ -1,21 +1,14 @@
-# PLANCK TEAM - FLL - FTC 23098
+# Planck Team
 
-## [FLL - First Lego League - since 2014](./FLL.md) 
+Welcome to the official repository of **Planck Team** — Italy's premier robotics program competing in FIRST competitions worldwide.
 
-## [FTC - First Tech Challenge - since 2023](./)
+> **[Learn about the team](./Team.md)** | **[FIRST LEGO League (FLL)](./FLL.md)** | **[FIRST Tech Challenge (FTC)](./FTC.md)**
 
+## Quick links
+- [Our story](./Team.md)
+- [FLL projects and documentation](./FLL.md)
+- [FTC engineering and competitions](./FTC.md)
 
-
-## Some our wins
-🏁 [FLL 2022 Huston USA](https://youtu.be/CobQ59IGMgE?si=P9-Rc6LGdCNZK6Vg) 
-
-🏁 [FTC 2023 Lyon France](https://youtu.be/O1qF7dxxHq8?si=qsrwC-KTK_Q1KkN5)
-
-🏁 [FGC 2023 Singapore](https://youtu.be/QGA200BRWYY?si=n7IgNFowBErlJDm2)
-
-🏁 [FLL 2024 Woncester USA](https://youtu.be/JEcS0t82Clk?si=--KjsEcTm5Cvxe77)
-
-🏁 [FLL 2025 Athens Greece](https://youtu.be/5_GQ7aIn7wA?si=9Ye0Lupu8lCgWiPQ)
 
 ## Reach us here:
 [![Instagram](https://img.shields.io/badge/PlanckTeam-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/planckteam/)
